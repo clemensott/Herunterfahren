@@ -1,9 +1,0 @@
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\bin\Debug\Herunterfahren.exe.config
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\bin\Debug\Herunterfahren.exe
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\bin\Debug\Herunterfahren.pdb
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.csprojResolveAssemblyReference.cache
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.Form1.resources
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.Properties.Resources.resources
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.csproj.GenerateResource.Cache
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.exe
-g:\users\clemens\documents\visual studio 2012\Projects\Herunterfahren\Herunterfahren\obj\Debug\Herunterfahren.pdb
